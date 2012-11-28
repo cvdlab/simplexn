@@ -1,0 +1,17 @@
+{
+  "name": "simplexn",
+  "repo": "cvdlab/simplexn",
+  "description": "dimension-independent geometric kernel based on simplicial complex",
+  "version": "0.0.1",
+  "keywords": [
+    "three.js",
+  ],
+  "scripts": [
+    "geometric kernel",
+    "simplex",
+    "geometry",
+    "topology"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
