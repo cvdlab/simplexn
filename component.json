@@ -4,13 +4,13 @@
   "description": "dimension-independent geometric kernel based on simplicial complex",
   "version": "0.0.1",
   "keywords": [
-    "three.js",
-  ],
-  "scripts": [
     "geometric kernel",
     "simplex",
     "geometry",
-    "topology"
+    "topology"  
+  ],
+  "scripts": [
+    "index.js"  
   ],
   "dependencies": {},
   "license": "MIT"
