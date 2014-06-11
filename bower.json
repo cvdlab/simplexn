@@ -1,0 +1,11 @@
+{
+  "name": "simplexn",
+  "version": "0.1.0",
+  "scripts": "index.js",
+  "ignore": ["test"],
+  "dependencies": {},
+  "devDependencies": {},
+  "description": "dimension-independent geometric kernel based on simplicial complex",
+  "keywords": ["geometric kernel", "simplex", "geometry", "topology"],
+  "license": "MIT"
+}
